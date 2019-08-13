@@ -1,4 +1,4 @@
-package com.desafio10;
+package com.jonathanrufino.meetapp;
 
 import android.app.Application;
 import android.util.Log;

@@ -1,4 +1,4 @@
-package com.desafio10;
+package com.jonathanrufino.meetapp;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;

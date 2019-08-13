@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.desafio10">
+  package="com.jonathanrufino.meetapp">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
